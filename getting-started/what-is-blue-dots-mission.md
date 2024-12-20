@@ -1,5 +1,5 @@
 ---
-description: Provide an accessible, world-class robotics education.
+description: Provide an accessible world-class robotics education.
 ---
 
 # 🧭 What is Blue Dot's mission?
