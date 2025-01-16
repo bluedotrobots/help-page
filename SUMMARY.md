@@ -2,7 +2,8 @@
 
 ## Getting Started
 
-* [❔ What is Blue Dot Robots?](README.md)
+* [🤖 About Us](README.md)
+* [❔ What is Blue Dot Robots?](<README (1).md>)
 * [🧭 What is Blue Dot's mission?](getting-started/what-is-blue-dots-mission.md)
 
 ## Frequently Asked Questions

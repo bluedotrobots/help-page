@@ -1,23 +1,24 @@
 ---
 description: >-
-  We're making Pip: a simple robot designed to make robotics education
-  approachable and fun.
+  We are a small team of recent Mechanical Engineering graduates from a
+  highly-ranked university, with work experience at top engineering firms like
+  SpaceX.
 ---
 
-# ❔ What is Blue Dot Robots?
+# 🤖 About Us
 
-## Pip
+The idea for Pip emerged out of our frustrations with educational robotics products growing up. They typically fell into one of two categories:
 
-Every detail of Pip is crafted with one purpose: to let you _just keep building_. Pip's setup is frictionless - no wires, no complicated instructions, no hours of setup. **Just connect to Wi-Fi, and you're ready to go.**
+1. Onboarding friction: Even basic projects, like getting an Arduino to blink an LED, often requires hours of setup and troubleshooting for newcomers.
+2. Static curriculum: Current robotics programs use rigid, age-bracketed learning tracks (e.g. 7-10 years, 11-14 years). Engaged learners quickly outgrow the limited available content.
 
-Once your Pip is online, explore the [Lab](https://bluedotrobots.com/lab), where interactive lessons and challenges guide you step by step. Feeling adventurous? Head on over to the [Sandbox](https://bluedotrobots.com/sandbox), where you can take full control of your Pip and bring your ideas to life.
+We thought these problems would’ve been solved by now, so we purchased a few educational robots just to make sure. After each purchase, we came closer to realizing that **progress and innovation in robotics education has stagnated over the last 10-15 years**.
 
-## Blue Dot Robots
+We set out on building a product that breaks down both barriers by:
 
-At Blue Dot Robots, we believe in learning by doing. Here, practice finally meets theory. Our platform encourages experimentation and builds confidence and curiosity for STEM.&#x20;
+1. Not requiring any assembly, and providing a frictionless onboarding experience
+2. Creating an interactive web-based robotics curriculum that’s integrated with Pip
 
-Unlike in a classroom, learners set their own pace with Pip. They're given the autonomy to create, fail, and try again - developing resilience along the way.
+[Our mission](getting-started/what-is-blue-dots-mission.md) is to provide an accessible, world-class robotics education, and every decision we make is in service of advancing that goal.
 
-We're opening up the door to discovery and holding it wide open for everyone.
-
-This is Blue Dot Robots.
+We love hearing your feedback and helping with whatever we can. Whether you have a question, need assistance, or just want to share your thoughts, we're here for you. For any inquiries, please reach out to us at bluedotrobots@gmail.com
