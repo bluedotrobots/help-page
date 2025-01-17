@@ -1,8 +1,8 @@
 ---
 description: >-
-  We're a small team of recent Mechanical Engineering graduates from a
-  highly-ranked university, with work experience at top engineering firms like
-  SpaceX.
+  We're a small team of recent Mechanical Engineering graduates from one of the
+  top engineering schools in the United States, with experience at leading firms
+  like SpaceX.
 ---
 
 # 🤖 About Us
