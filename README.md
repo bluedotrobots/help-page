@@ -19,6 +19,6 @@ We set out on building a product that breaks down both barriers by:
 1. Not requiring any assembly, and providing a frictionless onboarding experience
 2. Creating an interactive web-based robotics curriculum that’s integrated with Pip
 
-[Our mission](getting-started/mission.md) is to provide an accessible, world-class robotics education, and every decision we make is in service of advancing that goal.
+[Our mission](mission.md) is to provide an accessible, world-class robotics education, and every decision we make is in service of advancing that goal.
 
 We love hearing your feedback and helping with whatever we can. Whether you have a question, need assistance, or just want to share your thoughts, we're here for you. For any inquiries, please reach out to us at bluedotrobots@gmail.com
